@@ -1,10 +1,10 @@
 START
 
-STORE A with "Saya Senang"
-STORE i with 1
+STORE "A" with "Saya Senang"
+STORE "i" with 1
 
-WHILE i <= 100
+WHILE "i" <= 100
     DISPLAY A
-    i + 1
+    INCREMENT "i"
 ENDWHILE
 
