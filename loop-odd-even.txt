@@ -8,3 +8,4 @@ WHILE i <= 10
     ELSE
         DISPLAY "Ganjil"
     i add by 1
+ENDWHILE
