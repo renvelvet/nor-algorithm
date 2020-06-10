@@ -1,0 +1,7 @@
+START
+STORE A with any value
+STORE B with any value
+STORE C with any value
+
+STORE D with CALCULATE A * B * C
+DISPLAY D result

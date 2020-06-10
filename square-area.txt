@@ -1,0 +1,7 @@
+START
+
+STORE A with any value
+
+STORE B with CALCULATE B * B
+
+DISPLAY B result

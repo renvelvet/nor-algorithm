@@ -1,0 +1,9 @@
+START
+
+STORE A with "Saya Senang"
+STORE i with 1
+
+WHILE i <= 100
+    DISPLAY A
+    i + 1
+

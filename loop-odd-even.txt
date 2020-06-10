@@ -1,0 +1,10 @@
+START
+
+STORE i with 1
+
+WHILE i <= 10
+    IF i mod 2 != 1
+        DISPLAY "Genap"
+    ELSE
+        DISPLAY "Ganjil"
+    i add by 1
