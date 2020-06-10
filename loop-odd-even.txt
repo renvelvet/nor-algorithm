@@ -7,7 +7,7 @@ WHILE i <= 10
         DISPLAY "Genap"
     ELSE
         DISPLAY "Ganjil"
-    i add by 1
+    INCREMENT i
     ENDIF
-    
+
 ENDWHILE
