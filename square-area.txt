@@ -1,7 +1,7 @@
 START
 
-STORE A with any value
+STORE "A" with any value
 
-STORE B with CALCULATE B * B
+STORE "B" with CALCULATE "B * B"
 
-DISPLAY B result
+DISPLAY "B" result 
